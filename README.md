@@ -1,2 +1,2 @@
-# To_Do_List_App
+# App shoping list
 learn python section
