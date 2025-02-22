@@ -1,2 +1,2 @@
-# App shoping list
+# shoping list App
 learn python section
